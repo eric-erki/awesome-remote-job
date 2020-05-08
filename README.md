@@ -144,6 +144,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Find Bacon](https://findbacon.com) - Design and Dev jobs
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [Freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
+  1. [FreshRemote.work](https://freshremote.work/) - Fresh remote jobs anywhere (tech and non-tech).
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - View as table, then sort by `performed`
   1. [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - Remote OK Jobs for Full-Stack Developer Jobs
   1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*[Anywhere](https://jobs.github.com/positions?description=&location=anywhere)/[Remote](https://jobs.github.com/positions?description=&location=remote)*"
